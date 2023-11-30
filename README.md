@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/assets/42950803/ae3430b4-7af1-4cef-99db-ab4ea777f8f4)](https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers)
 
 # Getting Started with Microcontrollers
-In this repository, you will find updates and guides provided by Townsville City Council's ```Living Lab!```
+In this repository, you will find updates and guides from our ```Living Lab!```
 
 Instructions: 
 Click through the guides from the [Wiki](https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/wiki) tab to learn how to create and apply low-cost sensing technology.
