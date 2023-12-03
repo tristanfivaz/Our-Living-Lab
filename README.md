@@ -13,7 +13,7 @@ Click through the guides from the [Wiki](https://github.com/RowesBaySN/Getting-S
 <img src="https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/assets/42950803/9d1a7c86-4a7c-4df9-9347-2278ecb29686" width="200"/> 
 <img src="https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/assets/42950803/3a22e9a1-a4b3-4497-aad5-6952d9d5b847" width="200"/> 
 
-(Above from left to right: Rowes Bay Sensory Network's water quality buoy, indoor house luminace, temperature and humidity sensors, soil moisture and soil temperature sensor, air quality sensor (Carbon monoxide, carbon dioxide, methane, petroleum, temperature and humidity))  
+(Above from left to right: Water quality buoy, indoor house luminace, temperature and humidity sensors, soil moisture and soil temperature sensor, air quality sensor (Carbon monoxide, carbon dioxide, methane, petroleum, temperature and humidity))  
 
 <br><br><br>  
 
