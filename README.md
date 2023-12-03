@@ -4,8 +4,9 @@
 In this repository, you will find updates and guides from our ```Living Lab!```
 
 Instructions: 
-Click through the guides from the [Wiki](https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/wiki) tab to learn how to create and apply low-cost sensing technology.
-
+Click through the guides from the [Wiki](https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/wiki) tab to learn how to create and apply low-cost sensing technology.  
+  
+[Join the discord here for questions or to get more involved!](https://discord.gg/axN8nv8C)  
   
 <img src="https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/assets/42950803/70bac130-bd5e-4422-9ee1-8a580ce3f863" width="200"/> 
 <img src="https://github.com/RowesBaySN/Getting-Started-with-Microcontrollers/assets/42950803/75df1a2e-287a-40b6-b161-19c67900e5b3" width="200"/> 
